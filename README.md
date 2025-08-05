@@ -36,9 +36,33 @@ Content is meaningful and keyword-rich to improve search engine visibility.
 Frontend Developer  
 [LinkedIn Profile](https://www.linkedin.com/in/happy-igho-umukoro-b62b07129)
 
-## 📬 Contact
+## 📬 Contact                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Home
+About
+Services
+Contact
+Welcome to Our Website
+Your trusted partner in modern web development.
+
+About Us
+We build modern, accessible, and SEO-friendly websites using the latest web technologies.
+
+A team of web developers working together
+Our Services
+Web Design
+Creative and responsive designs tailored to your needs.
+
+Web Development
+Functional and scalable web applications built using modern frameworks.
+
+SEO Optimization
+Improve your site's visibility and ranking with our expert SEO services.
+
+Contact Us
+Name: 
+ Email: 
+ Message: 
+ Send Message
+© 2025 SmartXpress. All rights reserved.
 📧 Email: princeigho74@gmail.com  
 📱 WhatsApp: +2348065202102
 
-## 📃 License
-This project is for educational purposes only and is not intended for commercial use.
